@@ -2,6 +2,3 @@
 
 Neki opis!
 
-## Podnaslov
-
-Opet neki tekst.
